@@ -10,3 +10,4 @@ angular.module('myApp.save', ['ui.router'])
             controller:"listCtrl as lc"
         });
 }]);
+angular.module('myApp').requires.push('myApp.save');
