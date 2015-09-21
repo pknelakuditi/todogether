@@ -6,9 +6,11 @@
   "license": "",
   "private": true,
   "dependencies": {
-    "angular": "~1.4.0",
+    "angular": "~1.4.5",
     "angular-messages": "~1.4.5",
     "angular-ui-router": "~0.2.15",
+    "angular-loader": "~1.4.5",
+    "angular-mocks": "~1.4.5",
     "bootstrap": "~3.3.5",
     "html5-boilerplate": "~5.2.0"
   }
